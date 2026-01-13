@@ -1,0 +1,25 @@
+{
+  "name": "fox",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/SprkSmR/FOX#readme",
+  "bugs": {
+    "url": "https://github.com/SprkSmR/FOX/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SprkSmR/FOX.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^1.13.2",
+    "ejs": "^3.1.10",
+    "express": "^5.2.1"
+  }
+}
